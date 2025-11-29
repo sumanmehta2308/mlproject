@@ -22,5 +22,4 @@ author='Suman Mehta',
 author_email='sumanmehta8298@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
-
 )
